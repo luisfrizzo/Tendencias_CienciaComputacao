@@ -4,7 +4,6 @@ Resumo
 -----
 Este repositório reúne materiais, atividades e projetos para o curso / módulo "Tendências em Ciência da Computação", organizado no formato 5W2H para facilitar planejamento, execução e avaliação conforme os objetivos do plano de aulas.
 
-5W2H
 ----
 - O Que (What)
   - Conteúdo: pesquisa e estudo de temas emergentes em Computação (ex.: IA explicável, segurança aplicada, computação quântica, computação pervasiva, privacidade, MLOps, edge computing).
